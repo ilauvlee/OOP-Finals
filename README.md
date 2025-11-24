@@ -8,6 +8,7 @@ The application features an interactive menu system, visual progress bars, and d
 ### Group Members
 * Gutierrez Lovely Joy
 * Comia Althea Marie
+* Lumbera Casey
 
 ## Class Diagram
 ![Class Diagram](/images/class_diagram.png)
