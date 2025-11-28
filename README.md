@@ -6,6 +6,7 @@ This is a Java-based Command Line Interface (CLI) application designed to manage
 The application features an interactive menu system, visual progress bars, and detailed status updates for each stage of the grooming process.
 
 ### Group Members
+C2B
 * Gutierrez Lovely Joy
 * Comia Althea Marie
 * Lumbera Casey
