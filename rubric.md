@@ -26,8 +26,19 @@ The project demonstrates basic encapsulation but lacks advanced OOP concepts lik
 ### 4. Base Grade (10%)
 **Score:** 5/5
 
+### 5. Extra Points (up to 6)
+
+**Features:** 1/5
+- Console
+
+**Code Quality:** 1.0/1.0
+- Variable naming: 0.5/0.5
+- Code organization: 0.5/0.5
+
+**Extra Points Total:** +2.0
+
 ---
 
-## Final Grade: 63/100
+## Final Grade: 63 + 2.0 = **65/100**
 
 *Assessment generated based on project analysis.*
